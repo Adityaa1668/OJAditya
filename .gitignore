@@ -1,0 +1,14 @@
+# Global ignores
+.env
+**/.env
+node_modules/
+package-lock.json
+
+# Custom folders
+codes/
+inputs/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
